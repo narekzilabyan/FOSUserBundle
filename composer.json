@@ -19,6 +19,12 @@
             "homepage": "https://github.com/friendsofsymfony/FOSUserBundle/contributors"
         }
     ],
+    "repositories": [
+	    {
+		    "type": "vcs",
+		    "url": "https://github.com/narekzilabyan/FOSUserBundle.git"
+	    }
+    ],
     "require": {
         "php": "^5.5.9 || ^7.0",
         "symfony/form": "^2.7 || ^3.0",

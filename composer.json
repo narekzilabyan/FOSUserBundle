@@ -1,7 +1,7 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "pmt/user-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony FOSUserBundle",
+    "description": "PMT fork of Symfony FOSUserBundle",
     "keywords": ["User management"],
     "homepage": "http://friendsofsymfony.github.com",
     "license": "MIT",
@@ -50,11 +50,6 @@
         "exclude-from-classmap": [
             "/Tests/"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     },
     "support": {
         "docs": "https://symfony.com/doc/master/bundles/FOSUserBundle/index.html"
